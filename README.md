@@ -1,2 +1,2 @@
 # WaveLine
-Cocos creator game
+Cocos creator game demo
